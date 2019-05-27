@@ -67,6 +67,7 @@ def get_command(Menu):
 
 #Main
 
+
 Menu = ["Current dir", "Add dir", "Delete dir", "Exit"]
 Commands = [Current_dir, Add_dir, Delete_dir, Exit]
 command=None
